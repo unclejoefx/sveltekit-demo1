@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Uwa Joseph<br />SvelteKit app
+		Uwa Joseph<br />SvelteKit application
 	</h1>
 
 	<h2>
